@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slechtvalk/static/css/main.9e477e3d.css",
+    "main.js": "/slechtvalk/static/js/main.c56755ff.js",
+    "index.html": "/slechtvalk/index.html",
+    "main.9e477e3d.css.map": "/slechtvalk/static/css/main.9e477e3d.css.map",
+    "main.c56755ff.js.map": "/slechtvalk/static/js/main.c56755ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e477e3d.css",
+    "static/js/main.c56755ff.js"
+  ]
+}
